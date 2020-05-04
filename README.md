@@ -1,7 +1,10 @@
 # MayLeetCodeChallenge
 Solutions to the LeetCode 30-day challenge in May 2020
 
+Solutions will include only function stubs, unless otherwise mentioned.
+
 Unless otherwise mentioned, **n** is the length of the array / string in consideration
+
 Problem | Concepts/Algorithms Used | Complexity | Solution
 ---     |   ---  | --- | --- |
 1| Binary Search| O(log n) | [S01](Solutions/S01.cpp) |
