@@ -11,3 +11,4 @@ Problem | Concepts/Algorithms Used | Complexity | Solution
 2| Substring, Sorting| O(n log n) | [S02](Solutions/S02.cpp) |
 3| String Representation| O(n) | [S03](Solutions/S03.cpp) |
 4| Bit Manipulation| O(b) (b -> Number of bits) | [S04](Solutions/S04.cpp) |
+5| Hash Map | O(n) (Amortized, assuming `unordered_map` is O(1) | [S05](Solutions/S05.cpp) |
