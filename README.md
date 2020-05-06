@@ -12,3 +12,4 @@ Problem | Concepts/Algorithms Used | Complexity | Solution
 3| String Representation| O(n) | [S03](Solutions/S03.cpp) |
 4| Bit Manipulation| O(b) (b -> Number of bits) | [S04](Solutions/S04.cpp) |
 5| Hash Map | O(n) (Amortized, assuming `unordered_map` is O(1) | [S05](Solutions/S05.cpp) |
+6| Arrays, Voting Algorithms | O(n) | [S06](Solutions/S06.cpp) |
