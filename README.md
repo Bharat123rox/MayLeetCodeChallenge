@@ -13,3 +13,4 @@ Problem | Concepts/Algorithms Used | Complexity | Solution
 4| Bit Manipulation| O(b) (b -> Number of bits) | [S04](Solutions/S04.cpp) |
 5| Hash Map | O(n) (Amortized, assuming `unordered_map` is O(1) | [S05](Solutions/S05.cpp) |
 6| Arrays, Voting Algorithms | O(n) | [S06](Solutions/S06.cpp) |
+7| Binary Trees | O(n) (n -> Number of nodes) | [S07](Solutions/S07.cpp) |
