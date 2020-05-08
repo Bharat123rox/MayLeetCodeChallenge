@@ -14,3 +14,4 @@ Problem | Concepts/Algorithms Used | Complexity | Solution
 5| Hash Map | O(n) (Amortized, assuming `unordered_map` is O(1) | [S05](Solutions/S05.cpp) |
 6| Arrays, Voting Algorithms | O(n) | [S06](Solutions/S06.cpp) |
 7| Binary Trees | O(n) (n -> Number of nodes) | [S07](Solutions/S07.cpp) |
+8| Coordinate Geometry | O(n) (n -> Number of coordinates) | [S08](Solutions/S08.cpp) |
