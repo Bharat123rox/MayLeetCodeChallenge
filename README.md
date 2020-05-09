@@ -15,3 +15,4 @@ Problem | Concepts/Algorithms Used | Complexity | Solution
 6| Arrays, Voting Algorithms | O(n) | [S06](Solutions/S06.cpp) |
 7| Binary Trees | O(n) (n -> Number of nodes) | [S07](Solutions/S07.cpp) |
 8| Coordinate Geometry | O(n) (n -> Number of coordinates) | [S08](Solutions/S08.cpp) |
+9| Binary Search | O(log n) | [S09](Solutions/S09.py) |
