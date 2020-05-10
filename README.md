@@ -16,3 +16,4 @@ Problem | Concepts/Algorithms Used | Complexity | Solution
 7| Binary Trees | O(n) (n -> Number of nodes) | [S07](Solutions/S07.cpp) |
 8| Coordinate Geometry | O(n) (n -> Number of coordinates) | [S08](Solutions/S08.cpp) |
 9| Binary Search | O(log n) | [S09](Solutions/S09.py) |
+10| Arrays / Pairs / Hash Map | O(n) | [S10](Solutions/S10.cpp) |
