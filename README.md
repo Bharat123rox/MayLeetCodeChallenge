@@ -17,3 +17,4 @@ Problem | Concepts/Algorithms Used | Complexity | Solution
 8| Coordinate Geometry | O(n) (n -> Number of coordinates) | [S08](Solutions/S08.cpp) |
 9| Binary Search | O(log n) | [S09](Solutions/S09.py) |
 10| Arrays / Pairs / Hash Map | O(n) | [S10](Solutions/S10.cpp) |
+11| Depth First Search (DFS) | O(n) | [S11](Solutions/S11.cpp) |
