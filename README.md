@@ -20,3 +20,4 @@ Problem | Concepts/Algorithms Used | Complexity | Solution
 11| Depth First Search (DFS) | O(n) | [S11](Solutions/S11.cpp) |
 12| Arrays | O(n) | [S12](Solutions/S12.cpp) |
 13| Strings, Number Theory | O(nk) (k -> Number of digits to remove) | [S13](Solutions/S13.cpp) |
+14|Tries| O(nka) (n-> Number of strings, k -> Length of longest string, a -> Alphabet size) | [S14](Solutions/S14.cpp) |
