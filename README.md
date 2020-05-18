@@ -23,3 +23,4 @@ Problem | Concepts/Algorithms Used | Complexity | Solution
 14|Tries| O(nka) (n-> Number of strings, k -> Length of longest string, a -> Alphabet size) | [S14](Solutions/S14.cpp) |
 16|Linked Lists| O(n) | [S16](Solutions/S16.cpp) |
 17|Two Pointer, Hashing, Substring| O(n) | [S17](Solutions/S17.cpp) |
+18|Sliding Window, Substring| O(n2) (n2 -> Length of larger string) | [S18](Solutions/S18.cpp) |
