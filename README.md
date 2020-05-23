@@ -28,3 +28,4 @@ Problem | Concepts/Algorithms Used | Complexity | Solution
 20|Binary Search Trees (BST)| O(n) (n -> Number of nodes) | [S20](Solutions/S20.cpp) |
 20|Matrices| O(mn) | [S21](Solutions/S21.cpp) |
 22|Strings, Dictionary/Hashing| O(n) | [S22](Solutions/S22.py) |
+23|Arrays, Intervals| O(m + n) (m = A.length, n = B.length) | [S23](Solutions/S23.cpp) |
